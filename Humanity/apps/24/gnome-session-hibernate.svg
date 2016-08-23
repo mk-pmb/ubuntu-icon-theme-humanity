@@ -15,11 +15,11 @@
        id="linearGradient8838">
       <stop
          id="stop8840"
-         style="stop-color:black;stop-opacity:1"
+         style="stop-color:#000000;stop-opacity:1"
          offset="0" />
       <stop
          id="stop8842"
-         style="stop-color:black;stop-opacity:0"
+         style="stop-color:#000000;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -40,7 +40,7 @@
          offset="0" />
       <stop
          id="stop5358"
-         style="stop-color:black;stop-opacity:1"
+         style="stop-color:#000000;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -94,6 +94,7 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
+     transform="translate(-0.9999996,0.99999987)"
      id="layer1">
     <path
        d="m 73.25,4.625 a 10.625,3.625 0 1 1 -21.25,0 10.625,3.625 0 1 1 21.25,0 z"
@@ -116,15 +117,15 @@
     <path
        d="M 12.194529,11.713855 17.596253,6.3122524"
        id="path2312"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        d="M 13.071561,11.753718 9.4637681,8.1460064"
        id="path2314"
-       style="fill:none;stroke:black;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        d="M 12.314125,11.434805 18.465311,9.7866365"
        id="path2316"
-       style="fill:red;fill-rule:evenodd;stroke:red;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        d="m 12.5,18.284507 c 0,-1.392673 0,-1.569012 0,-1.569012"
        id="path5368"

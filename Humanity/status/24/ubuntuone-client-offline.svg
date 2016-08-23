@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="24"
-   height="24"
-   id="svg3249">
-  <defs
-     id="defs3251" />
-  <g
-     id="layer1">
-    <path
-       d="M 6.6619718,5.4925408 C 5.836247,6.4602276 5.577071,7.0591188 5.5023408,9.0901771 5.6774683,9.2201101 3.8750695,9.2102791 2.6527299,10.60311 c -1.2223396,1.392835 -1.0818192,2.590182 -1.0818192,4.178444 0,2.476075 1.864047,4.802775 4.2250893,4.718029 l 12.50192,0 c 2.361042,0 4.267176,-1.903448 4.267176,-4.379522 0,-1.638946 -0.841015,-3.040024 -2.088827,-3.8179 0.105598,-0.390901 0.179042,-0.794257 0.179042,-1.220476 0,-2.4875175 -1.925063,-4.5063737 -4.297016,-4.5063727 -0.244869,0 -2.33844,-0.1466769 -2.572158,0.3171868 C 12.739527,4.5336935 9.719614,3.7619566 6.6619718,5.4925408 z"
-       id="rect3758-9"
-       style="fill:none;stroke:#878787;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <path
-       d="m 11,16 2,0 0,2 -2,0 0,-2 z m 0,-9 0,5 0.5,2 1,0 0.5,-2 0,-5 -2,0 z"
-       id="path3659"
-       style="fill:#878787;fill-opacity:1;stroke:none" />
+<svg id="svg2896" xmlns="http://www.w3.org/2000/svg" height="24" width="24" version="1.1">
+ <g id="layer1" transform="translate(1 8)">
+  <g id="layer1-3" transform="translate(-2 -5)">
+   <path id="rect2196" style="stroke-linejoin:round;stroke:#606060;stroke-linecap:round;stroke-width:.97899;fill:none" d="m16.499 3.51v-1.01h-5.0313l-1.5264-1h-6.4418v11.011c-0.00224 0.88609 0.36634 2.1366 2.3359 1.9895"/>
+   <path id="rect3086" style="stroke-linejoin:round;stroke:#606060;stroke-linecap:round;stroke-width:.99983;fill:none" d="m10.012 14.5h-4.7561l-0.95641-0.3c1.8591 0.207 1.1999-6.0333 1.1999-9.7h13v7.65"/>
+   <path id="path3594" style="opacity:.4;stroke-linejoin:round;stroke:#606060;stroke-linecap:round;stroke-width:.99983;fill:none" d="m10.312 13.5-4.8126 0.000373c1.6268-1.605 1-5 1-8h11v6.0004"/>
   </g>
+ </g>
+ <path id="path3659" style="fill:#878787" d="m12 18h2v2h-2v-2zm0-8v5l0.5 2h1l0.5-2v-5h-2z"/>
 </svg>

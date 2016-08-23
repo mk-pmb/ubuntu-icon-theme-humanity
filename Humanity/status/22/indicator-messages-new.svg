@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.0"
-   width="22"
-   height="22"
-   id="svg2">
-  <defs
-     id="defs4" />
-  <g
-     id="g2829">
-    <path
-       d="m 18,15 0,-8 -13,0 6,6 6,-6 1,1 -4,4 0.492907,0.519596 1,-1 2.047228,1.959223 -1,1 L 14.000277,12 12,14 l -2,0 -2,-2 -2.5094768,2.478819 -1,-1 2.0165692,-1.985911 1,1 L 8,12 4,8 5,7 4,7 l 0,8 14,0"
-       id="path3607"
-       style="fill:#757575;fill-opacity:1;stroke:none" />
-    <path
-       d="m 2.5,5.5 0,11 17,0 0,-11 -17,0 z"
-       id="path2822"
-       style="fill:none;stroke:#606060;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-  </g>
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <radialGradient id="radialGradient3636" gradientUnits="userSpaceOnUse" cy="5.0004" cx="7.3846" gradientTransform="matrix(2 2.5574e-8 -1.847e-8 1.4444 -6.7692 -.22277)" r="9">
+   <stop id="stop2266" style="stop-color:#d7e866" offset="0"/>
+   <stop id="stop2268" style="stop-color:#8cab2a" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3644" y2="21" gradientUnits="userSpaceOnUse" x2="8" y1="5" x1="6">
+   <stop id="stop3640" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3642" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g2829">
+  <rect id="rect3170" style="stroke:#699536;stroke-linecap:square;fill:url(#radialGradient3636)" height="11" width="17" y="5.4995" x="2.5"/>
+  <path id="path3172" style="stroke:#699536;stroke-width:1px;fill:none" d="m4.5 7.5 6 6h1l6-6"/>
+  <path id="path3174" style="stroke:#699536;stroke-width:1px;fill:none" d="m4.5 14.5 3.5-3.5"/>
+  <path id="path3176" style="stroke:#699536;stroke-width:1px;fill:none" d="m17.5 14.5-3.5-3.5"/>
+  <path id="path3634" style="opacity:.4;stroke:url(#linearGradient3644);stroke-linecap:square;fill:none" d="m3.4688 6.4688v9.0625h15.062v-9.0625h-15.062z"/>
+ </g>
 </svg>
